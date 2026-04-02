@@ -10,14 +10,14 @@ stages:
       nfiles: 1
     - path: train.py
       hash: md5
-      md5: 175835ca849a40472e5d4dee51d2f7e3
-      size: 3586
+      md5: c9f229d49dcf3967361b4d3386b3549b
+      size: 3585
     outs:
     - path: metrics.csv
       hash: md5
-      md5: 3ff57088744c51543d4de8029abab56c
-      size: 53
+      md5: a086d8111c283421a2f5c86169315bb4
+      size: 44
     - path: models/model.joblib
       hash: md5
-      md5: 9d41bc9a62c0d0ac2bc4f0957cdc8ca8
-      size: 3434497
+      md5: 5d5c9adb906574c0687569c2811791f4
+      size: 352177
