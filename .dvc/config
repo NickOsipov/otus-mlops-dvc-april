@@ -1,0 +1,5 @@
+[core]
+    remote = otus-dvc-bucket-osipov
+['remote "otus-dvc-bucket-osipov"']
+    url = s3://otus-dvc-bucket-osipov/dvcstore
+    endpointurl = https://storage.yandexcloud.net
